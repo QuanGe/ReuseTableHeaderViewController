@@ -7,6 +7,7 @@
 //
 
 #import "UITableView+ReuseHeader.h"
+#import <objc/runtime.h>
 
 @implementation UITableView (ReuseHeader)
 
