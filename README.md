@@ -1,0 +1,2 @@
+# ReuseTableHeaderViewController
+如果UITableView的Header不能复用，则UIViewController可以继承此类解决
