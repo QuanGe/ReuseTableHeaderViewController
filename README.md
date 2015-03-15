@@ -1,2 +1,4 @@
-# ReuseTableHeaderViewController
-如果UITableView的Header不能复用，则UIViewController可以继承此类解决
+# 如果UITableView的Header不能复用
+1、则UIViewController可以继承此类解决
+
+2、假如你是用xib来布局的header 还可以用UITableView+ReuseHeader这个Category来解决
